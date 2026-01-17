@@ -1,6 +1,6 @@
 {
-  ""name"": ""specproj-7vcdiulj"",
-  ""goal"": ""config auditor for inventory"",
-  ""language"": ""go"",
-  ""template"": ""go-service""
+    "name":  "specproj-7vcdiulj",
+    "goal":  "config auditor for inventory",
+    "language":  "go",
+    "template":  "go-service"
 }
